@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="Tower_Shield">
+		<defName>Apparel_WedgeShield</defName>
+		<thingClass>Shield.ColorableShield</thingClass>
+		<label>wedge shield</label>
+		<description>A cumbersome, heavy duty shield made of advanced alloys and designed to deflect all manner of sharp impacts and projectiles.</description>
+		<graphicData>
+		  <texPath>Wedge_Shield</texPath>
+		  <graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Spacer</techLevel>	
+		<costStuffCount>160</costStuffCount>
+		<costList>
+			<ComponentIndustrial>4</ComponentIndustrial>
+		</costList>
+			<stuffCategories>
+			  <li>Metallic</li>
+			</stuffCategories>
+		<recipeMaker>
+		  <researchPrerequisite>AdvancedFabrication</researchPrerequisite>		
+		  <recipeUsers>
+			<li>FabricationBench</li>
+		  </recipeUsers>
+		</recipeMaker>
+		<statBases>
+		  <WorkToMake>30000</WorkToMake>
+		  <Mass>20</Mass>	
+		  <MaxHitPoints>1200</MaxHitPoints>
+		  <DeteriorationRate>1</DeteriorationRate>
+		  <ArmorRating_Blunt>0.25</ArmorRating_Blunt>
+		  <ArmorRating_Sharp>1</ArmorRating_Sharp>
+		</statBases>
+		<equippedStatOffsets Inherit="False">
+			<MoveSpeed>-0.4</MoveSpeed>
+			<MeleeHitChance>-0.2</MeleeHitChance>
+		</equippedStatOffsets>		
+		<useHitPoints>True</useHitPoints>
+		<smeltable>True</smeltable>
+		<apparel>
+			<tags>
+				<li>Shield_Spacer</li>
+			</tags>
+		</apparel>		
+	</ThingDef>
+
+	<ThingDef ParentName="Tower_Shield">
+		<defName>Apparel_BlastShield</defName>
+		<thingClass>Shield.ColorableShield</thingClass>
+		<label>blast shield</label>
+		<description>A heavy shield made of advanced and plasteel nanosprings. Designed to withstand powerful explosions and deadly blunt impacts.</description>
+		<graphicData>
+		  <texPath>Blast_Shield</texPath>
+		  <graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Spacer</techLevel>	
+		<costStuffCount>100</costStuffCount>
+		<costList>
+			<ComponentSpacer>1</ComponentSpacer>
+			<ComponentIndustrial>6</ComponentIndustrial>
+		</costList>
+			<stuffCategories>
+			  <li>Metallic</li>
+			</stuffCategories>
+		<recipeMaker>
+		  <researchPrerequisite>AdvancedFabrication</researchPrerequisite>		
+		  <recipeUsers>
+			<li>FabricationBench</li>
+		  </recipeUsers>
+		</recipeMaker>
+		<statBases>
+		  <WorkToMake>30000</WorkToMake>
+		  <Mass>15</Mass>	
+		  <MaxHitPoints>1000</MaxHitPoints>
+		  <DeteriorationRate>1</DeteriorationRate>
+		  <ArmorRating_Blunt>1</ArmorRating_Blunt>
+		  <ArmorRating_Sharp>0.70</ArmorRating_Sharp>
+		</statBases>
+		<equippedStatOffsets Inherit="False">
+			<MoveSpeed>-0.2</MoveSpeed>
+			<MeleeHitChance>-0.2</MeleeHitChance>
+		</equippedStatOffsets>		
+		<useHitPoints>True</useHitPoints>
+		<smeltable>True</smeltable>
+		<apparel>
+			<tags>
+				<li>Shield_Spacer</li>
+			</tags>
+		</apparel>		
+	</ThingDef>
+	
+	<ThingDef ParentName="Tower_Shield">
+		<defName>Apparel_EnergyShield</defName>
+		<thingClass>Shield.ColorableShield</thingClass>
+		<label>energy shield</label>
+		<description>An advanced shield made with Spacer shield emitters and designed defend against any incoming threat while remaining uncumbersome and unobtrusive.</description>
+		<graphicData>
+		  <texPath>Energy_Shield</texPath>
+		  <graphicClass>Graphic_Single</graphicClass>
+		  <!--<shaderType>Transparent</shaderType>-->
+		</graphicData>
+		<techLevel>Spacer</techLevel>	
+		<costStuffCount>80</costStuffCount>
+			<stuffCategories>
+			  <li>Metallic</li>
+			</stuffCategories>
+		<costList>
+			<Steel>40</Steel>
+			<Plasteel>60</Plasteel>
+			<Uranium>20</Uranium>
+			<ComponentSpacer>2</ComponentSpacer>
+			<ComponentIndustrial>8</ComponentIndustrial>
+		</costList>
+		<recipeMaker>
+		  <researchPrerequisite>AdvancedFabrication</researchPrerequisite>		
+		  <recipeUsers>
+			<li>FabricationBench</li>
+		  </recipeUsers>
+		</recipeMaker>
+		<statBases>
+		  <WorkToMake>50000</WorkToMake>
+		  <Mass>2</Mass>	
+		  <MaxHitPoints>2000</MaxHitPoints>
+		  <DeteriorationRate>1</DeteriorationRate>
+		  <ArmorRating_Blunt>0.9</ArmorRating_Blunt>
+		  <ArmorRating_Sharp>0.9</ArmorRating_Sharp>
+		</statBases>
+		<equippedStatOffsets Inherit="False">
+			<MoveSpeed>0</MoveSpeed>
+			<ShootingAccuracyPawn>0</ShootingAccuracyPawn>
+			<MeleeDodgeChance>0</MeleeDodgeChance>
+			<AimingDelayFactor>0</AimingDelayFactor>	
+		</equippedStatOffsets>		
+		<useHitPoints>True</useHitPoints>
+		<smeltable>True</smeltable>
+		<apparel>
+			<tags>
+				<li>Shield_Spacer</li>
+			</tags>
+		</apparel>		
+	</ThingDef>
+</Defs>
