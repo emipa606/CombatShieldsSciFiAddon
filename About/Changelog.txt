@@ -1,5 +1,8 @@
 # Changelog for CombatShieldsSciFiAddon
 
+1.0.3.0 - Updated the preview image
+
+
 1.0.2.0 - Updated to 1.3
 
 
