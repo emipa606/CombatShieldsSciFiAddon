@@ -1,14 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Apparel_WedgeShield.label>wedge shield</Apparel_WedgeShield.label>
   <Apparel_WedgeShield.description>A cumbersome, heavy duty shield made of advanced alloys and designed to deflect all manner of sharp impacts and projectiles.</Apparel_WedgeShield.description>
-
   <Apparel_BlastShield.label>blast shield</Apparel_BlastShield.label>
   <Apparel_BlastShield.description>A heavy shield made of advanced and plasteel nanosprings. Designed to withstand powerful explosions and deadly blunt impacts.</Apparel_BlastShield.description>
-
   <Apparel_EnergyShield.label>energy shield</Apparel_EnergyShield.label>
   <Apparel_EnergyShield.description>An advanced shield made with Spacer shield emitters and designed defend against any incoming threat while remaining uncumbersome and unobtrusive.</Apparel_EnergyShield.description>
-
-
 </LanguageData>
