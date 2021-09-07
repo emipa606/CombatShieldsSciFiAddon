@@ -7,6 +7,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1748098376
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
+
+[table]
+	[tr]
+		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+		[td]https://github.com/emipa606/CombatShieldsSciFiAddon]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+	[/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -18,6 +27,7 @@ The Wedge shield - 'A cumbersome, heavy duty shield made of advanced alloys and 
 The blast shield - 'A heavy shield made of advanced and plasteel nanosprings. Designed to withstand powerful explosions and deadly blunt impacts.' - extra defence against blunt attacks and explosives
 
 The energy shield - 'An advanced shield made with Spacer shield emitters and designed defend against any incoming threat while remaining uncumbersome and unobtrusive.' - good defence against sharp and blunt attacks and very light
+
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
