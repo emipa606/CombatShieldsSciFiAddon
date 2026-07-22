@@ -1,13 +1,13 @@
 # [Combat Shields - Unofficial Sci-Fi Addon (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2033036393)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of blakes mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1748098376
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Adds a variety of specialised futuristic shields to 'Combat Shields'.
 
@@ -18,13 +18,13 @@ The blast shield - 'A heavy shield made of advanced and plasteel nanosprings. De
 The energy shield - 'An advanced shield made with Spacer shield emitters and designed defend against any incoming threat while remaining uncumbersome and unobtrusive.' - good defence against sharp and blunt attacks and very light
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -32,4 +32,4 @@ The energy shield - 'An advanced shield made with Spacer shield emitters and des
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/CombatShieldsSciFiAddon?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2033036393) | tags:  future,  defense
+[![Image](https://img.shields.io/github/v/release/emipa606/CombatShieldsSciFiAddon?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2033036393) | tags: defense, future
